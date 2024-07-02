@@ -1,0 +1,21 @@
+{
+  "name": "shama",
+  "version": "1.0.0",
+  "description": "tourism",
+  "main": "App.js",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "shamalopes10@gmail.com"
+  },
+  "keywords": [
+    "shama"
+  ],
+  "author": "shamalopes",
+  "license": "ISC",
+  "dependencies": {
+    "shama": "^1.1.0"
+  }
+}
